@@ -1,0 +1,23 @@
+.buttom{
+    background-color: rgb(255, 245, 103);
+    position: absolute;
+    top: 25%;
+    left: 75%;
+    width: 80px;
+}
+
+.background{
+    position: relative;
+    margin-left: 60%;
+    width: 370px;
+    height: 40px;
+    background-color: aquamarine;
+}
+
+.searchbar{
+    position: absolute;
+    top: 25%;
+    left: 15px;
+    width: 250px;
+    height: 25px;
+}
